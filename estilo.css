@@ -25,3 +25,33 @@
     width:60px;
     height:80px;
     background-color:yellow;}   
+
+<!--
+.mesa{ <!--serve para onde fica as cartas -->
+    position: fixed; <!-- é onde ficara fixar no jogo-->
+    width:900px; <!-- é a largura da mesa=966px-->
+    height:600px; <!--é a altura da mesa=666px-->
+    background-color: green; <!--o verde é a mesa -->
+      }
+.robot{ <!--robo é controlado peko computador-->
+   position: relative; <!-- no canto superior da tela -->
+   top:5px; <!--o principal lugar onde vai ficar o robo 5px-->
+   left:15px; <!--o robo ficara posicionado na esquerda 15px-->
+   width:160px; <!--largura do robo 160px-->
+   height:60px; <!--altura do robo 66px-->
+   background-color: black;  } <!--o preto ser refere ao jogador e ao robo -->  
+.jogador{ <!-- o jagador ser refere a voce -->
+    position: relative;<!-- é a onde  voce ficara-->
+    top:390px; <!--onde o jogador ira ficar 390px-->
+    left:15px; <!-- o jogador ficara posicionado na esquerda 15px-->
+    width:160px; <!-- largura do jogador 160px-->
+    height:60px; <!--altura do jogador 60px-->
+    background-color: black; } <!--é a onde o jogador ficara-->
+.baralho{ <!--o baralho são cartas do jogo-->
+    position: relative; <!--as cartas ficaram na mesa -->
+    top:200px; <!--o principal lugar onde ficara as cartas- 200px-->
+    left:315px; <!--as cartas ficaram na esquerda 315px-->
+    width:60px; <!--a largura onde ficar as cartas-->
+    height:80px; <!--a altura das cartas 80px-->
+    background-color:yellow;}  <!--o amarelo é o baralho--> 
+-->
